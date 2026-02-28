@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="240" viewBox="0 0 390 240">
+  <defs>
+    <style>
+      .t{font:600 16px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif; fill:#c9d1d9}
+      .s{font:500 12px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif; fill:#8b949e}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="390" height="240" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="18" y="32" class="t">Stack (in progress)</text>
+  <text x="18" y="58" class="s">Backend</text>
+
+  <image x="18"  y="70" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <image x="60"  y="70" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+  <image x="102" y="70" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <image x="144" y="70" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+
+  <text x="18" y="132" class="s">Tools</text>
+  <image x="18"  y="144" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <image x="60"  y="144" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <image x="102" y="144" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+  <text x="18" y="206" class="s">ML / Data</text>
+  <image x="18"  y="214" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <image x="60"  y="214" width="34" height="34" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+
+  <text x="180" y="222" class="s">UrFU • .NET path • ML foundations</text>
+</svg>
