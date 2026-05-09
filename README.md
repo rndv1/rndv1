@@ -17,7 +17,7 @@ I build backend services and REST APIs with **C#**, **ASP.NET Core**, **Entity F
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git&theme=dark" alt="C#, .NET, PostgreSQL, Docker, Git"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,githubactions,docker,git,visualstudio,rider&theme=dark" alt="C#, .NET, PostgreSQL, Redis, GitHub Actions, Docker, Git, Visual Studio, Rider"/>
 </p>
 
 ---
