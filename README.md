@@ -1,27 +1,29 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rndv1&style=flat&color=blue)
 
-### Hi there 👋 I'm Timur Murtazin,
+### Hi, I'm Timur Murtazin
 
-A backend-focused software engineer passionate about systems design and scalable architecture.  
-I enjoy building reliable services, understanding how systems behave under load, and turning ideas into working prototypes.
+**ASP.NET Backend Developer**
 
-- ⚙️ Currently focused on **.NET backend engineering and system design**
-- 🧠 Exploring **distributed systems, clean architecture, and ML foundations**
-- 🛠 I believe strong fundamentals outperform quick hacks
-- 🎮 Side quests in Unity — building small experimental projects
+I build maintainable backend services with **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and **Docker**.
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL and relational database design
+- REST API design, validation, and error handling
+- Clean Architecture, SOLID, and testable business logic
+- Docker, Git, and production-minded backend practices
 
 ---
 
-### My skills include
+### Stack
 
 <p align="center">
   <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
   <img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+  <img title="ASP.NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
 ---
@@ -29,7 +31,7 @@ I enjoy building reliable services, understanding how systems behave under load,
 <br/>
 
 <p>
-  <img align="left"  src="/github-metrics.svg" width="390"/>
+  <img align="left" src="/github-metrics.svg" width="390"/>
   <img align="right" src="/outerwilds.gif" width="390"/>
 </p>
 
