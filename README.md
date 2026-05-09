@@ -2,28 +2,22 @@
 
 ### Hi, I'm Timur Murtazin
 
-**ASP.NET Backend Developer**
+**ASP.NET Core Backend Developer**
 
-I build maintainable backend services with **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and **Docker**.
+I build backend services and REST APIs with **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and **Docker**.
 
 - ASP.NET Core Web API
-- Entity Framework Core
-- PostgreSQL and relational database design
+- Entity Framework Core and PostgreSQL
 - REST API design, validation, and error handling
-- Clean Architecture, SOLID, and testable business logic
-- Docker, Git, and production-minded backend practices
+- Clean Architecture, SOLID, and testable code
+- Docker, Git, and backend tooling
 
 ---
 
 ### Stack
 
 <p align="center">
-  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
-  <img title="ASP.NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git&theme=dark" alt="C#, .NET, PostgreSQL, Docker, Git"/>
 </p>
 
 ---
