@@ -17,16 +17,16 @@ I build backend services and REST APIs with **C#**, **ASP.NET Core**, **Entity F
 ### Stack
 
 <p align="center">
-  <img src="/stack.svg" width="760" alt="C#, ASP.NET Core, Entity Framework Core, PostgreSQL, Redis, Docker, Git, GitHub Actions, Visual Studio, Rider"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,githubactions,docker,git,visualstudio,rider&theme=dark" alt="C#, .NET, PostgreSQL, Redis, GitHub Actions, Docker, Git, Visual Studio, Rider"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="/github-metrics.svg" width="390" alt="GitHub profile metrics"/>
-  <img src="/top-languages.svg" width="390" alt="Top languages"/>
+<br/>
+
+<p>
+  <img align="left" src="/github-metrics.svg" width="390" alt="GitHub profile metrics"/>
+  <img align="right" src="/outerwilds.gif" width="390" alt="Outer Wilds animation"/>
 </p>
 
-<p align="center">
-  <img src="/outerwilds.gif" width="760" alt="Outer Wilds animation"/>
-</p>
+<br clear="both"/>
