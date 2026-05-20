@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          config_timezone: Europe/Yekaterinburg
+          config_timezone: Asia/Yekaterinburg
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
