@@ -2,7 +2,7 @@
 
 ### Hi, I'm Timur Murtazin
 
-**ASP.NET Core Backend Developer**
+**.NET Backend Developer**
 
 I build backend services and REST APIs with **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and **Docker**.
 
