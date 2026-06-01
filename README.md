@@ -1,8 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rndv1&style=flat&color=blue)
 
-### Hi, I'm Timur Murtazin
+### Timur Murtazin
 
-**.NET Backend Developer**
+**.NET Backend Developer · ASP.NET Core**
 
 I build backend services and REST APIs with **C#**, **ASP.NET Core**, **Entity Framework Core**, **PostgreSQL**, and **Docker**.
 
